@@ -1,0 +1,1 @@
+User-Agent: *Disallow: /contacto/Disallow: /cookies/Disallow: /error404/Allow: /Sitemap: http://www.logo.com/sitemap.xml
